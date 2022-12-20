@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title></title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="./style.css" />
+
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.3/html2pdf.bundle.min.js"
+      integrity="sha512-YcsIPGdhPK4P/uRW6/sruonlYj+Q7UHWeKfTAkBW+g83NKM+jMJFJ4iAPfSnVp7BKD4dKMHmVSvICUbE/V1sSw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+  </head>
+  <body>
+    <h1 class="titulo">Técnica de las iniciales o de los acrónimos</h1>
+    <p class="parrafo">
+      Esta técnica para memorizar consiste en coger la letra inicial de cada una
+      de las palabras que queramos recordar y crear una nueva palabra o frase
+      con todas ellas, con o sin significado. Este método es muy útil para
+      memorizar rápidamente un listado de términos: nombres de países, ciudades,
+      o fórmulas matemáticas o de economía. Por ejemplo: necesitas aprender las
+      cuatro provincias catalanas: Barcelona, Girona, Tarragona y Lleida; puedes
+      crear una nueva palabra a partir de sus iniciales: BaGaTeLa. Al pensar en
+      esta palabra tu cerebro recordará de forma automática las cuatro palabras
+      (provincias) que la conforman. O bien este otro ejemplo: necesitas
+      recordar la fórmula del interés simple (I=C*i*t, en donde el Interés es
+      igual al Capital por la tasa de interés anual en forma decimal por el
+      tiempo expresado en años). Puedes crear el término “ICaIT”, que engloba
+      las iniciales de todas las palabras a recordar: cada vez que necesites
+      recordar la fórmula, te acordarás de esta palabra, y a partir de ella tu
+      cerebro te llevará hasta los datos que componen la fórmula.
+    </p>
+
+    <form class="for">
+      <input
+        type="textarea"
+        name="name"
+        id="name"
+        placeholder="Ingrese su texto"
+        size="35"
+        class="input"
+      />
+      <button type="button" onclick="mostrarString()" class="btn1">
+        Capturar
+      </button>
+    </form>
+
+    <br />
+    <div id="pdff">
+      <div class="divP" id="divP"></div>
+
+      <div class="for">
+        <input
+          id="prueba"
+          type="button"
+          value="Pruebate"
+          onclick="muestraMensaje()"
+          class="btn2"
+        />
+      </div>
+
+      <div id="text"></div>
+    </div>
+    <strong class="c">Presiona el siguiente botón para crear un PDF:</strong>
+    <button id="btnCrearPdf" class="btn2">Click aquí</button>
+    <footer class="fot">
+      Hecho con ♥ por
+      <a
+        class="aa"
+        href="https://www.linkedin.com/in/maxi-b-3846bab0/?original_referer="
+        >MaxiB</a
+      >
+    </footer>
+
+    <script src="./frace.js"></script>
+  </body>
+</html>

@@ -1,0 +1,274 @@
+[
+  {
+    "id": "1",
+    "name": "FIFA 23",
+    "description": "FIFA",
+    "image": {
+      "1": "https://cdn.gameplanet.com/wp-content/uploads/2022/11/16155748/014633379310-fifa-23-nsw.jpg",
+      "2": "https://cdn.gameplanet.com/wp-content/uploads/2022/11/16155751/014633379310-contraportada-fifa-23-nsw.jpg",
+    },
+    "amount": {
+      "currency": "EUR",
+      "value": "55.00"
+    },
+    "Plataforma": {
+      "name1": "XSX",
+      "name2": "PS5",
+      "name3": "PS4",
+      "name4": "NSW",
+      "name5": "XONE"
+    },
+    "Clasificación": "Todo Público",
+    "Género": "Deportes"
+  },
+  {
+    "id": "2",
+    "name": "POKEMON VIOLET",
+    "description": "POKEMON VIOLET",
+    "image": {
+      "1": "https://cdn.gameplanet.com/wp-content/uploads/2022/11/17165229/045496598983-pokemon-violet-nsw-1-510x630.jpg",
+      "2": "https://cdn.gameplanet.com/wp-content/uploads/2022/11/17165232/045496598983-contraportada-violet-pokemon.jpg",
+    },
+    "amount": {
+      "currency": "EUR",
+      "value": "35.00"
+    },
+    "Plataforma": {
+      "name1": "XSX",
+      "name2": "PS5",
+      "name3": "PS4",
+      "name4": "NSW",
+      "name5": "XONE"
+    },
+    "Clasificación": "Todo Público",
+    "Género": "Accion",
+  },
+  {
+    id: "3",
+    name: "GOD OF WAR RAGNAROK",
+    description: "GOD OF WAR RAGNAROK",
+    image: {
+      1: "https://cdn.gameplanet.com/wp-content/uploads/2022/11/10112031/711719548171-ragnarok5ps5-2.jpg",
+      2: "https://cdn.gameplanet.com/wp-content/uploads/2022/11/10112033/711719548171-contraportada-gow-ps5.jpg",
+    },
+    amount: {
+      currency: "EUR",
+      value: "105.00",
+    },
+    Plataforma: {
+      name: "XSX",
+      name: "PS5",
+      name: "PS4",
+      name: "NSW",
+      name: "XONE",
+    },
+    Clasificación: "Adultos",
+    Género: "Accion",
+  },
+
+  {
+    id: "4",
+    name: "MARIO KART 8 DELUXE",
+    description: "MARIO KART 8 DELUXE",
+    image: {
+      1: "https://cdn.gameplanet.com/wp-content/uploads/2022/09/27172817/mario_kart_8_main_45496598501_1.jpg",
+      2: "https://cdn.gameplanet.com/wp-content/uploads/2022/09/27172830/045496590475-MarioKart8Deluxe_01.jpg",
+    },
+    amount: {
+      currency: "EUR",
+      value: "45.00",
+    },
+    Plataforma: {
+      name: "XSX",
+      name: "PS5",
+      name: "PS4",
+      name: "NSW",
+      name: "XONE",
+    },
+    Clasificación: "Todo Público",
+    Género: "Vehiculos",
+  },
+
+  {
+    id: "5",
+    name: "MINECRAFT",
+    description: "MINECRAFT",
+    image: {
+      1: "https://cdn.gameplanet.com/wp-content/uploads/2022/09/27174840/minecraft_main_45496598532_1-2.jpg",
+      2: "https://cdn.gameplanet.com/wp-content/uploads/2022/09/27174840/minecraft_main_45496598532_1-2.jpg",
+    },
+    amount: {
+      currency: "EUR",
+      value: "75.00",
+    },
+    Plataforma: {
+      name: "XSX",
+      name: "PS5",
+      name: "PS4",
+      name: "NSW",
+      name: "XONE",
+    },
+    Clasificación: "Todo Público",
+    Género: "Aventura",
+  },
+
+  {
+    id: "6",
+    name: "KIRBY AND THE FORGOTTEN LAND",
+    description: "KIRBY AND THE FORGOTTEN LAND",
+    image: {
+      1: "https://cdn.gameplanet.com/wp-content/uploads/2022/09/05023756/kirbo-y-la-tierra-de-los-perdidos.jpg",
+      2: "https://cdn.gameplanet.com/wp-content/uploads/2022/09/05023803/screenshot03_1.jpg",
+    },
+    amount: {
+      currency: "EUR",
+      value: "15.00",
+    },
+    Plataforma: {
+      name: "XSX",
+      name: "PS5",
+      name: "PS4",
+      name: "NSW",
+      name: "XONE",
+    },
+    Clasificación: "Todo Público",
+    Género: "Aventura",
+  },
+
+  {
+    id: "7",
+    name: "SONIC FRONTIERS",
+    description: "SONIC FRONTIERS",
+    image: {
+      1: "https://cdn.gameplanet.com/wp-content/uploads/2022/11/24124340/010086770278-sonic-frontier-nsw-2.jpg",
+      2: "https://cdn.gameplanet.com/wp-content/uploads/2022/11/24124342/010086770278-contraportada-sonic-frontiers-nsw.jpg",
+    },
+    amount: {
+      currency: "EUR",
+      value: "90.00",
+    },
+    Plataforma: {
+      name: "XSX",
+      name: "PS5",
+      name: "PS4",
+      name: "NSW",
+      name: "XONE",
+    },
+    Clasificación: "Todo Público",
+    Género: "Aventura",
+  },
+
+  {
+    id: "8",
+    name: "LUIGIs MANSION 3",
+    description: "LUIGIs MANSION 3",
+    image: {
+      1: "https://cdn.gameplanet.com/wp-content/uploads/2022/09/28152327/luigi_s_mansion_3_main_45496598495_1-3.jpg",
+      2: "https://cdn.gameplanet.com/wp-content/uploads/2022/09/28152351/045496596408-2019102010320000-0C015090E6C5E3F06D97FEDE95458758-1.jpg",
+    },
+    amount: {
+      currency: "EUR",
+      value: "55.00",
+    },
+    Plataforma: {
+      name: "XSX",
+      name: "PS5",
+      name: "PS4",
+      name: "NSW",
+      name: "XONE",
+    },
+    Clasificación: "Todo Público",
+    Género: "Aventura",
+  },
+
+  {
+    id: "9",
+    name: "THE LEGEND OF ZELDA BREATH OF THE WILD",
+    description: "THE LEGEND OF ZELDA BREATH OF THE WILD",
+    image: {
+      1: "https://cdn.gameplanet.com/wp-content/uploads/2022/09/27194543/ad-510x630.jpg",
+      2: "https://cdn.gameplanet.com/wp-content/uploads/2022/09/27194600/045496590420-the-legend-of-zelda-breath-of-the-wild-gameplay-nintendo-switch.jpg",
+    },
+    amount: {
+      currency: "EUR",
+      value: "70.00",
+    },
+    Plataforma: {
+      name: "XSX",
+      name: "PS5",
+      name: "PS4",
+      name: "NSW",
+      name: "XONE",
+    },
+    Clasificación: "Todo Público",
+    Género: "Aventura",
+  },
+
+  {
+    id: "10",
+    name: "NBA 2K21",
+    description: "NBA 2K21",
+    image: {
+      1: "https://cdn.gameplanet.com/wp-content/uploads/2022/09/28174045/nba_2k21_ps4_1-2.jpg",
+      2: "https://cdn.gameplanet.com/wp-content/uploads/2022/09/28174113/71042557690-NBA-2K21-Current-Gen-Giannis-Antetokounmpo-on-D.jpg",
+    },
+    amount: {
+      currency: "EUR",
+      value: "80.00",
+    },
+    Plataforma: {
+      name: "XSX",
+      name: "PS5",
+      name: "PS4",
+      name: "NSW",
+      name: "XONE",
+    },
+    Clasificación: "Todo Público",
+    Género: "Deportes",
+  },
+
+  {
+    id: "11",
+    name: "GRAND THEFT AUTO V PREMIUM EDITION",
+    description: "GRAND THEFT AUTO V PREMIUM EDITION",
+    image: {
+      1: "https://cdn.gameplanet.com/wp-content/uploads/2022/09/28135413/gta_5_xbx_1-2.jpg",
+      2: "https://cdn.gameplanet.com/wp-content/uploads/2022/09/28135439/710425590337-maxresdefault.jpg",
+    },
+    amount: {
+      currency: "EUR",
+      value: "145.00",
+    },
+    Plataforma: {
+      name: "XSX",
+      name: "PS5",
+      name: "PS4",
+      name: "NSW",
+      name: "XONE",
+    },
+    Clasificación: "Adultos",
+    Género: "Disparos",
+  },
+  {
+    id: "12",
+    name: "CALL OF DUTY MODERN WARFARE II",
+    description: "CALL OF DUTY MODERN WARFARE II",
+    image: {
+      1: "https://cdn.gameplanet.com/wp-content/uploads/2022/10/27193306/047875103627-COD-MW2-PS4.jpg",
+      2: "https://cdn.gameplanet.com/wp-content/uploads/2022/10/27193309/047875103627-contraportada-cod-mw2.jpg",
+    },
+    amount: {
+      currency: "EUR",
+      value: "105.00",
+    },
+    Plataforma: {
+      name: "XSX",
+      name: "PS5",
+      name: "PS4",
+      name: "NSW",
+      name: "XONE",
+    },
+    Clasificación: "Adultos",
+    Género: "Disparos",
+  },
+];
